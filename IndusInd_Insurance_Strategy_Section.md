@@ -125,5 +125,3 @@ I'll refine this into a precise TAM/SAM/SOM funnel with IndusInd's actual custom
 3. **Claim & Trust** — self-serve claims with real-time status, treated as the core retention moment rather than a support afterthought
 
 ---
-
-*Next up: Success Metrics & North Star Metric, GTM Strategy, Product Roadmap, and Assumptions & Risks — say the word when you're ready for the Product Execution section.*
