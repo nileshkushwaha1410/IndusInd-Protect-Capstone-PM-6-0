@@ -113,4 +113,4 @@ The unlock a bank has that no insurtech does: an existing, trusting, logged-in-w
 
 ---
 
-*This closes out Product Execution. Ready for Product Design (user journey, key flows, feature prioritization, wireframes/prototype walkthrough) whenever you want to move forward.*
+*This closes out Product Execution.
