@@ -87,5 +87,3 @@ Design principles applied throughout:
 - **Every form is pre-filled where the bank already has the data** — this is the structural advantage over every competitor studied
 
 ---
-
-*Ready to move to the prototype build itself (Figma/HTML clickable version) whenever you'd like — or I can pull together the Bonus section (AI experiences, claims automation, fraud detection, monetization, tech architecture) next if you'd rather sequence it that way.*
