@@ -9,7 +9,7 @@ A unified, mobile-first insurance platform for IndusInd Bank — 15-screen click
 
 📊  **Full Deck:** *[https://1drv.ms/p/c/03146DF518765302/IQDzcBBqOrPSQ4mPZAGMHlj9AXi8M5QZWSk4mgS9A74PVb0?e=tIbOQ2]*
    
-    **Linkedin Post:**  { https://www.linkedin.com/posts/nilesh-kushwaha-31414a396_productmanagement-ecelliitg-fintech-activity-7483064188978798592-kc1f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGEydUABVycgYOPZXQUjqpg5vpbtlPpCKfk }
+    **Linkedin Post:** https://www.linkedin.com/posts/nilesh-kushwaha-31414a396_productmanagement-ecelliitg-fintech-activity-7483064188978798592-kc1f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGEydUABVycgYOPZXQUjqpg5vpbtlPpCKfk
 
 ---
 
